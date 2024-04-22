@@ -1,0 +1,23 @@
+{
+  "name": "cs-date-picker-react",
+  "version": "1.0.0",
+  "description": "\"cs-date-picker-react\" is a comprehensive npm package designed to streamline date selection processes, offering features such as single or range date selection, customizable date formats, and multi-language support. With built-in functionalities like disabled dates, keyboard navigation, and responsive design, it ensures a seamless user experience across various platforms. Developed with extensive event handling, theme customization, and robust date validation, it simplifies date-related tasks while enhancing accessibility and user satisfaction.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrafulDeore/cs-date-picker-react.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "PrafulDeore",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PrafulDeore/cs-date-picker-react/issues"
+  },
+  "homepage": "https://github.com/PrafulDeore/cs-date-picker-react#readme"
+}
